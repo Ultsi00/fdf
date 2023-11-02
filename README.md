@@ -1,4 +1,6 @@
-# fdf
-simple wire-frame to display landscape altitudes
+# fdf  
+Created in macOS. Requires Minilibx (see path in Makefile).  
+Simple wireframe to display landscape altitudes.  
+Maps are read to 2D char array. Projection are ortographic and isometric.
 
-Makefile is set-up to use MiniLibX directly from pre-installed system files. In order to compile fluently, re-link Makefile MiniLibX utilization to /man3 (unless your OS contains MiniLibX)
+
