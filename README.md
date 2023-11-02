@@ -5,10 +5,8 @@ Simple wireframe to display landscape altitudes.
 Maps are read to 2D char array. Projection are ortographic and isometric.  
 
 
-https://github.com/Ultsi00/fdf/assets/60548494/3598baa5-2f79-4dbe-b5b9-9087a97ebeb0
+https://github.com/Ultsi00/fdf/assets/60548494/44479cdb-366c-4715-8838-d2d7c39c4bf9
 
 
-https://github.com/Ultsi00/fdf/assets/60548494/afb3c1c7-9ac2-487d-aea4-ac23d7105652
-
-
+https://github.com/Ultsi00/fdf/assets/60548494/6e2ab5bd-fbfc-444a-b2eb-b5d84476502e
 
